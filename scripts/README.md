@@ -23,8 +23,6 @@
 5. Deploy to Streamlit Community Cloud:
    - Push `app/` and `scripts/` to a new GitHub repository.
    - Link to Streamlit Community Cloud for deployment.
-   - Access the live URL (e.g., `https://solar-dashboard.streamlit.app` after deployment).
+   - Access the live URL (e.g., `https://solar-challenge-week1-epnyuwmtk5rsq7wnscwxhu.streamlit.app` its deployed).
 
-## Notes
-- This is a code-only implementation; actual data should be integrated in a production environment.
-- Deployment requires a public GitHub repository and Streamlit Community Cloud setup.
+ 
